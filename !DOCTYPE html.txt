@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Explore Houston</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Houston</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Houston</a>
+      <a href="places.html">Places to Visit</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Discover the Heart of Texas</h2>
+    <p>Explore the best of Houston, from cultural landmarks to scenic parks and vibrant neighborhoods.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Explore Houston. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Houston</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>About Houston</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Houston</a>
+      <a href="places.html">Places to Visit</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Houston: The Bayou City</h2>
+    <p>Houston is the largest city in Texas and the fourth-largest city in the United States. Known for its diverse culture, thriving arts scene, and world-class dining, Houston is a vibrant city with something for everyone.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Explore Houston. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Places to Visit</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Places to Visit in Houston</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Houston</a>
+      <a href="places.html">Places to Visit</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Popular Attractions</h2>
+    <ul>
+      <li><strong>Space Center Houston:</strong> The official visitor center for NASA's Johnson Space Center.</li>
+      <li><strong>Houston Museum District:</strong> Home to nearly 20 museums, including the Museum of Fine Arts and the Houston Zoo.</li>
+      <li><strong>Buffalo Bayou Park:</strong> A scenic park perfect for walking, biking, and kayaking.</li>
+      <li><strong>Downtown Aquarium:</strong> A fantastic destination for families and aquatic enthusiasts.</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Explore Houston. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Contact Us</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Houston</a>
+      <a href="places.html">Places to Visit</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>We'd love to hear from you!</h2>
+    <form>
+      <label for="name">Name:</label><br>
+      <input type="text" id="name" name="name"><br><br>
+
+      <label for="email">Email:</label><br>
+      <input type="email" id="email" name="email"><br><br>
+
+      <label for="message">Message:</label><br>
+      <textarea id="message" name="message" rows="4" cols="50"></textarea><br><br>
+
+      <button type="submit">Submit</button>
+    </form>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Explore Houston. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
